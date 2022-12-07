@@ -72,7 +72,7 @@ public final class Dog extends Pet  {
         System.out.println("Шум");
 
     }
-    public String getInfo1 () { return
+    public String getInfo0 () { return
             "\n Color: "  + color +
                     "\n Shelter name: " + shelter.getName() +
                     "\n Shelter address: " + shelter.getAddress();
